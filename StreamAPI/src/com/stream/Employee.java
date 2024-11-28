@@ -1,7 +1,8 @@
 package com.stream;
 
 public class Employee {
-	
+
+	//Declare variables
 	private Integer empId;
 	private String empName;
 	private String dept;
