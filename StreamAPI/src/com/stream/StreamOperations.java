@@ -11,6 +11,7 @@ public class StreamOperations {
 	
 	public static void main(String[] args) {
 		
+		//Define an Employee Collection object
 		List<Employee> employees = new ArrayList<>();
 
         employees.add(new Employee(101, "Alice Smith", "HR", 2019, 50000.0, "Female"));
